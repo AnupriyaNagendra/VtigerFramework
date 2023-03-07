@@ -12,11 +12,6 @@ public class SampleTest
 		
 		//pulled.......
 		
-		//pushed.......
-		
-		//pull....
+		//2nd push
 	}
-	
-
-
 }
